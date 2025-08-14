@@ -1,8 +1,4 @@
-
-<h1 align="center">#SIMAPRO</h1>
-<p align="center">(Construction Project Management System)</p>
-
-<h1 align="center">#SIMAPRO</h1>
+<h1 align="center"><strong>SIMAPRO</strong>strong></h1>
 <p align="center">(Construction Project Management System)</p>
 <p align="center"><strong>Author:</strong> Faris Iftikhar Alfarisi</p>
 
