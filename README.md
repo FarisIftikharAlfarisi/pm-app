@@ -1,5 +1,4 @@
 #SIMAPRO (Construction Project Management System)
-
 **Author:** Faris Iftikhar Alfarisi  
 
 SIMAPRO is an integrated system designed to manage the entire lifecycle of construction projects, from planning to completion. It is specifically tailored to meet the needs of construction companies in monitoring project progress, managing resources, and optimizing procurement processes.
@@ -13,8 +12,8 @@ SIMAPRO is an integrated system designed to manage the entire lifecycle of const
   Selecting the best suppliers using the Weighted Product method, with integrated Purchase Requisition (PR) and Purchase Order (PO) creation.
 - **Project Progression**
   Monitoring work schedules based on the Work Breakdown Structure (WBS), including predecessor settings, duration, and resource requirements.
-- **Labour Management**
-  Managing workforce allocation based on project schedules and requirements.
+- **Labour Management**  
+  Managing workforce allocation based on project schedules and requirements, and estimating daily wages or worker pay based on attendance.
 - **Project Financial Management**
   Recording and tracking project expenses to ensure budget efficiency.
 - **Workshop Production Scheduling**
@@ -24,9 +23,7 @@ With SIMAPRO, the entire construction project process becomes more structured, t
 
 ---
 
-## 📥 How to Clone & Run Locally
-
-### Clone Repository
+### How To Clone Repository
 ```bash
 git clone https://github.com/FarisIftikharAlfarisi/pm-app.git
 ```
