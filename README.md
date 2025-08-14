@@ -8,9 +8,8 @@
 </p>
 
 
-SIMAPRO is an integrated system designed to manage the entire lifecycle of construction projects, from planning to completion. It is specifically tailored to meet the needs of construction companies in monitoring project progress, managing resources, and optimizing procurement processes. **This system was developed as part of the Supply Chain Management course project** for the Informatics Engineering study program at Universitas Komputer Indonesia.
+SIMAPRO is an integrated system designed to manage the entire lifecycle of construction projects, from planning to completion. It is specifically tailored to meet the needs of construction companies in monitoring project progress, managing resources, and optimizing procurement processes. **This system was developed as part of the Supply Chain Management course project** for the Informatics Engineering study program at Universitas Komputer Indonesia. With SIMAPRO, the entire construction project process becomes more structured, transparent, and efficient, reducing the risks of delays and unnecessary costs.
 
----
 
 ## Key Features
 - **Inventory Management**
@@ -26,9 +25,6 @@ SIMAPRO is an integrated system designed to manage the entire lifecycle of const
 - **Workshop Production Scheduling**
   Scheduling the production of custom items (Aftercraft) according to project plans and material availability.
 
-With SIMAPRO, the entire construction project process becomes more structured, transparent, and efficient, reducing the risks of delays and unnecessary costs.
-
----
 
 ### How To Clone Repository
 ```bash
