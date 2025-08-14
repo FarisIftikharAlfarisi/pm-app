@@ -1,5 +1,5 @@
 <h1 align="center"><strong>Construction Project Management System</strong></h1>
-<p align="center"><i>Sistem Informasi Manajemen Proyek Konstruksi</i>i</p>
+<p align="center"><i>Sistem Informasi Manajemen Proyek Konstruksi</i></p>
 <p align="center"><strong>Author:</strong> Faris Iftikhar Alfarisi</p>
 
 <p align="center">
