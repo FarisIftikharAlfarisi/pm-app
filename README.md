@@ -1,5 +1,16 @@
-#SIMAPRO (Construction Project Management System)
-**Author:** Faris Iftikhar Alfarisi  
+
+<h1 align="center">#SIMAPRO</h1>
+<p align="center">(Construction Project Management System)</p>
+
+<h1 align="center">#SIMAPRO</h1>
+<p align="center">(Construction Project Management System)</p>
+<p align="center"><strong>Author:</strong> Faris Iftikhar Alfarisi</p>
+
+<p align="center">
+<a href="https://www.instagram.com/frs.alfrs_/"><img src="https://img.shields.io/badge/Instagram-Profile-orange?logo=instagram" alt="Instagram"></a>
+<a href="mailto:faris.workingspace@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail" alt="Email"></a>
+</p>
+
 
 SIMAPRO is an integrated system designed to manage the entire lifecycle of construction projects, from planning to completion. It is specifically tailored to meet the needs of construction companies in monitoring project progress, managing resources, and optimizing procurement processes.
 
