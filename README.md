@@ -1,5 +1,5 @@
-<h1 align="center"><strong>SIMAPRO</strong>strong></h1>
-<p align="center">(Construction Project Management System)</p>
+<h1 align="center"><strong>Construction Project Management System</strong></h1>
+<p align="center"><i>Sistem Informasi Manajemen Proyek Konstruksi</i>i</p>
 <p align="center"><strong>Author:</strong> Faris Iftikhar Alfarisi</p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 
-SIMAPRO is an integrated system designed to manage the entire lifecycle of construction projects, from planning to completion. It is specifically tailored to meet the needs of construction companies in monitoring project progress, managing resources, and optimizing procurement processes.
+SIMAPRO is an integrated system designed to manage the entire lifecycle of construction projects, from planning to completion. It is specifically tailored to meet the needs of construction companies in monitoring project progress, managing resources, and optimizing procurement processes. **This system was developed as part of the Supply Chain Management course project** for the Informatics Engineering study program at Universitas Komputer Indonesia.
 
 ---
 
