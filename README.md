@@ -23,11 +23,12 @@ With SIMAPRO, the entire construction project process becomes more structured, t
 ### 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/FarisIftikharAlfarisi/pm-app.git
+```
+
 2️⃣ Navigate to Project Folder
-bash
-Salin
-Edit
+```bash
 cd pm-app
+```
 3️⃣ Install Dependencies
 bash
 Salin
@@ -56,3 +57,4 @@ bash
 Salin
 Edit
 php artisan serve
+```
